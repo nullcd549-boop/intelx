@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "case-study-1",
+      "description": "Abstract network visualization",
+      "imageUrl": "https://images.unsplash.com/photo-1738082956220-a1f20a8632ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZXR3b3JrJTIwYWJzdHJhY3R8ZW58MHx8fHwxNzU4NTg1MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "network abstract"
+    },
+    {
+      "id": "case-study-2",
+      "description": "Cybersecurity operations center",
+      "imageUrl": "https://images.unsplash.com/photo-1719255417989-b6858e87359e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwb3BlcmF0aW9uc3xlbnwwfHx8fDE3NTg2OTk0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cybersecurity operations"
+    },
+    {
+      "id": "case-study-3",
+      "description": "Developer at a computer with code on screen",
+      "imageUrl": "https://images.unsplash.com/photo-1603575448360-153f093fd0b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGV2ZWxvcGVyJTIwY29kZXxlbnwwfHx8fDE3NTg1OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer code"
+    },
+    {
+      "id": "team-photo",
+      "description": "A diverse group of professionals in an office",
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxidXNpbmVzcyUyMHRlYW18ZW58MHx8fHwxNzU4NjAxMDc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business team"
+    },
+    {
+      "id": "client-logo-1",
+      "description": "Placeholder for client logo",
+      "imageUrl": "https://images.unsplash.com/photo-1744390166675-966abed5fcc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb2dvJTIwYWJzdHJhY3R8ZW58MHx8fHwxNzU4NTg5NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo abstract"
+    },
+    {
+      "id": "client-logo-2",
+      "description": "Placeholder for client logo",
+      "imageUrl": "https://images.unsplash.com/photo-1661347998423-b15d37d6f61e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsb2dvJTIwdGVjaHxlbnwwfHx8fDE3NTg2MDgyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo tech"
+    },
+    {
+      "id": "client-logo-3",
+      "description": "Placeholder for client logo",
+      "imageUrl": "https://images.unsplash.com/photo-1705997696498-9326154c3e94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsb2dvJTIwbWluaW1hbHxlbnwwfHx8fDE3NTg2OTk0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo minimal"
+    },
+    {
+      "id": "client-logo-4",
+      "description": "Placeholder for client logo",
+      "imageUrl": "https://images.unsplash.com/photo-1706086699518-ebc67759cdcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsb2dvJTIwZmluYW5jZXxlbnwwfHx8fDE3NTg2MzQwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo finance"
+    }
+  ]
 }
