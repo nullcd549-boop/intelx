@@ -11,7 +11,13 @@ const ServicesPage = () => {
       />
       <div className="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
         {services.map((service, index) => (
-          <ServiceCard key={index} {...service} />
+          <ServiceCard
+            key={index}
+            title={service.title}
+            description={service.description}
+            benefits={service.benefits}
+            icon={service.icon as any}
+          />
         ))}
       </div>
     </div>
